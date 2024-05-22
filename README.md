@@ -4,7 +4,6 @@ Author: Eric Ramirez
 
 ## Requirements
 
-- Python 3.x
 - scikit-learn
 - numpy
 
