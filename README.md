@@ -29,12 +29,13 @@ The script provides a detailed classification report showing precision, recall, 
 
 ### [Image of Classification Report]
 
-![Image of Classification Report](classification_report.png)
+![classification_report](https://github.com/Akira6713/Naive-Bayes-Classifier/assets/66973202/c06fe213-3965-4e12-8725-ffa47ce29d96)
 
 ### Posterior Probabilities
 The script also calculates and displays the posterior probabilities, indicating the model's confidence in its predictions for each test sample.
 
 ### [Image of Posterior Probabilities]
 
-![Image of Posterior Probabilities](posterior_probabilities.png)
+![posterior_probabilities](https://github.com/Akira6713/Naive-Bayes-Classifier/assets/66973202/bfaa2c6f-e213-4169-9751-f7a7cc2339ad)
+
 
